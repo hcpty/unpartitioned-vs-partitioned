@@ -1,2 +1,2 @@
-# unpartitioned-vs-partitioned
+# Readme
 A comparison between Unpartitioned and Partitioned.
